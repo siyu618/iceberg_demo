@@ -1,1 +1,7 @@
 # empty
+
+.idea/
+
+iceberg_warehouse/
+
+spark-warehouse/
