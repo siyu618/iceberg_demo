@@ -9,7 +9,7 @@
 2. In Intellij IDEA, start jvm with " --add-exports=java.base/sun.net.util=ALL-UNNAMED --add-exports=java.base/sun.nio.ch=ALL-UNNAMED --add-opens=java.base/java.nio=ALL-UNNAMED"
    * path: Run-> Edit Configurations -> Modify options -> Environment Variables
    * The one added in maven-surefire-plugin does not take effect.
-
+3. Install Intellij plugin to veiw Parquet file: https://plugins.jetbrains.com/plugin/12281-avro-and-parquet-viewer
 
 ### Reference
 1. https://zhuanlan.zhihu.com/p/453130996
