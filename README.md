@@ -13,3 +13,4 @@
 
 ### Reference
 1. https://zhuanlan.zhihu.com/p/453130996
+2. optimization for lots of small files: https://zhuanlan.zhihu.com/p/473731690
