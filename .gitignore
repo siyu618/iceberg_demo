@@ -2,6 +2,8 @@
 
 .idea/
 
+target/
+
 iceberg_warehouse/
 
 spark-warehouse/
